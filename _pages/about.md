@@ -10,10 +10,13 @@ redirect_from:
 
 
 
-Hi, my name is Ruth Johnson, and I'm currently a fourth year computer science PhD student at the University of California, Los Angeles working with [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/http://web.cs.ucla.edu/~sriram/) and [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/). I am interested in the intersection of machine learning and medical data, or broadly, biomedical informatics. Previously, I worked on deep learning applications for genome sequencing technology at Illumina as a summer intern. Before that I worked as an R&D engineering intern at Sandia National Laboratories in Albuquerque, NM. 
+Hi, my name is Aditya Sarkar, and I'm currently a third year computer science undergraduate student at the Indian Institute of Technology. I am working with [Serghei Mangul](https://mangul-lab-usc.github.io/members/serghei-mangul) at University of Southern California, Los Angeles. Serghei guided throughout my undergraduate and prepared me for doing research in future. I am also doing my internship under the supervision of [Eran Halperin](https://samueli.ucla.edu/people/eran-halperin/) and [Sriram Sankararaman](https://samueli.ucla.edu/people/sriram-sankararaman/) at University of California, Los Angeles. I am interested in the intersection of Artificial Intelligence and Healthcare data, or broadly, `AI in healthcare`. 
+
+* Please note this website is under development and is taken from Ruth Johnson, a PhD graduate at UCLA. It will be updated soon once my exams are over!
 
 
-Recent News======
+Recent News
+======
 * <span style="color:#db0a5b">[October 2020]</span> Named an EECS Rising Stars participant [<span style="color:#db0a5b"> (link) </span>](https://www2.eecs.berkeley.edu/risingstars/2020/participants/johnson.shtml)
 * <span style="color:#db0a5b">[November 2020]</span> Honorable mention for Stellar Abstract Award at the Program in Quantitative Genomics annual conference
 * <span style="color:#db0a5b">[November 2020]</span> Our paper, "Prior diagnoses and medications as risk factors for COVID-19 in a Los Angeles Health System", is under review and now on *medRxiv* 
@@ -21,7 +24,7 @@ Recent News======
 * <span style="color:#db0a5b">[February 2020]</span> Gave a presentation on "Leveraging electronic health record signatures identify undiagnosed patients with Common Variable Immunodeficiency Disease" at the Institute for Quantitative and Computational Biosciences Research Seminar
 * <span style="color:#db0a5b">[December 2019]</span> Our paper "A scalable method for estimating the regional polygenicity of complex traits" is accepted at RECOMB 2020
 
-<br>
+<br>
 
 Publications
 ======
@@ -57,15 +60,40 @@ of complex traits**</span>](https://www.biorxiv.org/content/10.1101/2020.01.15.9
 
 <br>
 
-Talks======1. **A scalable method for estimating the regional polygenicity of complex traits**  <br> RECOMB, July 2020, Virtual. 
+Talks
+======
+
+1. **A scalable method for estimating the regional polygenicity of complex traits**  <br> RECOMB, July 2020, Virtual. 
 
 2. **Leveraging electronic health record signatures identify undiagnosed patients with Common
 Variable Immunodeficiency Disease** <br> Undiagnosed Diseases Network - Steering Committee Meeting, March 2020. Los Angeles, CA, USA.
 (cancelled due to COVID-19)
 
 3. **Leveraging electronic health record signatures identify undiagnosed patients with Common
-Variable Immunodeficiency Disease** <br> Institute for Quantitative and Computational Biosciences - Research Seminar, February 2020. Los Angeles, CA, USA.4. **Electronic health record signatures identify undiagnosed patients with of CVID** <br> Medical and Population Genetics seminar - Computational Genomics and Health, November 2019. Los Angeles, CA, USA.5. **A scalable Bayesian framework for estimating the proportion of causal variants for a complex trait from GWAS** <br> Probabilistic Modeling In Genomics, Nov 2018. Long Island, NY, USA.6. **A unifying framework for joint trait analysis under a non-infinitesimal model** <br> ISMB 2018, July 2018. Chicago, IL, USA.7. **CANVIS: Correlation Annotation VISualization** <br> RECOMB-Genetics Satellite Meeting, July 2017. Los Angeles, CA, USA.<br>
+Variable Immunodeficiency Disease** <br> Institute for Quantitative and Computational Biosciences - Research Seminar, February 2020. Los Angeles, CA, USA.
 
-Awards & Recognitions======* EECS Rising Stars participant (2020)* Stellar Abstract Award Honorable Mention at Program in Quantitative Genomics Conference (2020)* RECOMB 2020 Travel Fellowship (2020)* NSF-NRT MENTOR Training Grant (2018)* Ford Foundation Predoctoral Fellowship - Honorable Mention (2018)* NSF Graduate Research Fellowships Program - Honorable Mention (2017)* Eugene V. Cota-Robles Fellowship (2017)* Dean’s Prize for Excellence for Undergraduate Research (2017)* Undergraduate Bioinformatics Research Award (2017)* Chancellor’s Service Award (2017)
+4. **Electronic health record signatures identify undiagnosed patients with of CVID** <br> Medical and Population Genetics seminar - Computational Genomics and Health, November 2019. Los Angeles, CA, USA.
+
+5. **A scalable Bayesian framework for estimating the proportion of causal variants for a complex trait from GWAS** <br> Probabilistic Modeling In Genomics, Nov 2018. Long Island, NY, USA.
+
+6. **A unifying framework for joint trait analysis under a non-infinitesimal model** <br> ISMB 2018, July 2018. Chicago, IL, USA.
+
+7. **CANVIS: Correlation Annotation VISualization** <br> RECOMB-Genetics Satellite Meeting, July 2017. Los Angeles, CA, USA.
+
+<br>
+
+Awards & Recognitions
+======
+
+* EECS Rising Stars participant (2020)
+* Stellar Abstract Award Honorable Mention at Program in Quantitative Genomics Conference (2020)
+* RECOMB 2020 Travel Fellowship (2020)
+* NSF-NRT MENTOR Training Grant (2018)
+* Ford Foundation Predoctoral Fellowship - Honorable Mention (2018)
+* NSF Graduate Research Fellowships Program - Honorable Mention (2017)
+* Eugene V. Cota-Robles Fellowship (2017)
+* Dean’s Prize for Excellence for Undergraduate Research (2017)
+* Undergraduate Bioinformatics Research Award (2017)
+* Chancellor’s Service Award (2017)
 
 
