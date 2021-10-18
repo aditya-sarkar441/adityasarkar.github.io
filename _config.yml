@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruthie Johnson"
+title                    : "Aditya Sarkar"
 title_separator          : "-"
-name                     : &name "Ruthie Johnson"
+name                     : &name "Aditya Sarkar"
 description              : &description "personal description"
-url                      : https://ruthjohnson95.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aditya-sarkar441.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ruthjohnson95.github.io"
+repository               : "aditya-sarkar441.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,8 +85,8 @@ author:
   bio              : 
   location         : 
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=IpaMUH0AAAAJ&hl=en&authuser=1"
-  email            : "mailto:ruthjohnson@g.ucla.edu"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=2&user=5coBCUQAAAAJ"
+  email            : "mailto:asnov2k@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ruthjohnson95"
+  github           : "aditya-sarkar441"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ruthjohnson13/"
+  linkedin         : "aditya-sarkar-994686170/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ruthie_johnson"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
