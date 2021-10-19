@@ -42,14 +42,14 @@ Publications, Preprints and Working Papers
 Talks
 ======
 
-1. **Virtual Screening of Pharmaceutical Compounds with hERG inhibitory activity(cardiotoxicity) using Ensemble Learning**  <br> 14th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOIMAGING held at Vienna, Austria; February 2021, Virtual.
+1. **Virtual Screening of Pharmaceutical Compounds with hERG inhibitory activity(cardiotoxicity) using Ensemble Learning**  <br> 14th International Joint Conference on Biomedical Engineering Systems and Technologies - BIOIMAGING held at Vienna, Austria; February 2021, <span style="color:#db0a5b">Virtual</span>
 
 <br>
 
 Awards & Recognitions
 ======
 
-* Selected for foreign exchange at TU Darmstadt, Germany (2021)
+* Selected for foreign exchange at <span style="color:#db0a5b">TU Darmstadt, Germany (2021)</span>
 * IIT Academics Award (2021)
 * National Talent Search Scholarship Award (2017)
 
