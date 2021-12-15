@@ -1,0 +1,8 @@
+<div class="container clearfix layout projects-container">
+    <h3>{{ include.title }}</h3>
+    <ol>
+        {% for var in site.data[{{include.content}}] %}
+        <li>{{var}}</li>
+        {% endfor %}
+    </ol>
+</div>

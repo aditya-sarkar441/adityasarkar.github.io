@@ -1,0 +1,15 @@
+<div class="container clearfix layout projects-container">
+    <h3>{{ include.title }}</h3>
+    <dl>
+        {% for var in site.data[{{include.content}}] %}
+        {% if var.title %}
+        <dt>{{var.title}}</dt>
+        {% endif %}
+        
+        {% if var.description %}
+        <dd>{{var.description}}</dd>
+        {% endif %}
+
+        {% endfor %}
+    </dl>
+</div>

@@ -1,0 +1,87 @@
+# # Project template
+# - layout: top-middle
+#   name: Adversarial Approximate Inference for Speech to Electroglottograph Conversion
+#   github: VarunSrivastavaIITD/AAI
+#   dates: Sept 2018 - Jan 2019
+#   supervisor: Prof. Prathosh AP, Dept of EE, IIT Delhi
+#   quote: >
+#     A distribution transformation framework to map speech to the corresponding EGG signal, robust to noise, generalizing across recording conditions, speech pathologies and voice qualities.
+#   description: |
+#     - Optimized the Speech to Laryngograph encoder using adversarial training for the network.
+#     - Created a cosine based loss function for enforcing amplitude invariance between ground truth and network output.
+#     - Used a variational inference approach for learning optimal representations for the speech signal.
+#     - Utilized continuous wavelet transforms using Ricker wavelets for robust peak picking.
+
+#     <strong>Published in IEEE/ACM Transactions on Audio, Speech, and Language Processing</strong>. Manuscript available at [<mark>
+#       arxiv link
+#     </mark>](https://arxiv.org/abs/1903.12248)
+
+# - layout: top-middle
+#   name: Detection of Glottal Closure Instants using CNNs
+#   github: VarunSrivastavaIITD/DCNN
+#   supervisor: Prof. Prathosh AP, Dept of EE, IIT Delhi
+#   quote: >
+#     Glottal Closure Instants (GCIs) correspond to the temporal locations of significant excitation to the vocal tract occurring during the production of voiced speech. GCI detection is cast as a supervised multi-task learning problem solved using a deep convolutional neural network jointly optimizing a classification and regression cost.
+#   description: |
+#     - Devised state of the art deep dilated CNN to detect and locate GCIs from raw speech.
+#     - Performed multi task learning (simultaneous regression and classification) on speech for temporal event detection.
+#     - Created a robust Weighted Histogram based Clustering Algorithm for time series clustering.
+#     - Beat State of the Art method with Lowest Variance in Localisation Error on noisy speech.
+
+#     <strong>Published in INTERSPEECH 2019</strong>. Manuscript available at [<mark>
+#       arxiv link
+#     </mark>]( https://arxiv.org/abs/1804.10147)
+# - layout: top-middle
+#   name: Mode matching in GANs through latent space learning and inversion
+#   github: NEMGAN/NEMGAN-P
+#   supervisor: Prof. Prathosh AP, Dept of EE, IIT Delhi
+#   quote: >
+#     NEMGAN addresses the problem of imposing desired modal properties on the generated space using a latent distribution, engineered in accordance with the modal properties of the true data distribution. This is achieved by training a latent space inversion network in tandem with the generative network using a divergence loss.
+#   description: |
+#     - Construction of a multi modal latent distribution by reparameterization of a mixture of continuous and discrete random variables employable in any GAN framework.
+#     - Imposition of modal properties of the latent space the generated space using two-stage latent inversion.
+#     - Learnt the mode priors of the latent distribution to follow true data distribution using sparse-supervision.
+
+
+#     Manuscript available at [<mark>arxiv link</mark>](https://arxiv.org/abs/1811.03692)
+
+# - layout: top-middle
+#   name: Non Contact CardioPulmonary Assessment using Imaging Techniques
+#   supervisor: Prof. Prathosh AP, Dept of EE, IIT Delhi
+#   quote: >
+#     This porject builds a single end to end model - for estimation of rPPG (and its derivatives) from videos, using a neural network for all modelling conditions (Lighting, Skin Complexion etc). It also explores efficacy of using  Near Infrared spectrum (650 - 1350 nm), which is optimal for remote monitoring – as it has maximal penetration depth.
+#   description: |
+#     - Performing non contact estimation of human vitals (heart rate, oxygen saturation etc) using infrared cameras.
+#     - Devising deep learning models to perform human skin segmentation from videos in near infrared spectrum.
+
+#     Slides available at [<mark>Google Slides</mark>](https://docs.google.com/presentation/d/1wRr66bCymaurmT9RpZwqVIj7Q3cgNz9RAh0Pf3XUe0I/edit?usp=sharing)
+
+
+#     Awarded **Qualcomm Research Innovation Fellowship** with Rs 10,00,000 of funding for the project proposal
+
+# - layout: top-middle
+#   name: Analysis and Optimization of Text Generation Models
+#   supervisor: Prof. Jayadeva, Dept of EE, IIT Delhi
+#   github: VarunSrivastavaIITD/SURA-NLP
+#   quote: >
+#     This project integrates contextual information from Brown Corpus and WordNet into a text generating model to produce grammatically correct, meaningful sentences in the long run.
+#   description: |
+#     - Designed a probabilistic discriminative model using Brown Corpus and WordNet to perform text prediction.
+#     - Implemented a LSTM in Chainer (dynamic computational graph framework) for language modelling.
+#     - Improved word perplexity by building a factored language model incorporating both words and parts of speech.
+
+#     Slides available at [<mark>Google Slides</mark>](https://docs.google.com/presentation/d/1PigfDzFcpsljJSDm6KxIaPtv2bT0D0X3sml4PiW2VQo/edit?usp=sharing)
+
+#     Awarded **Summer Undergraduate Research Award** for successful completion
+
+# - layout: top-middle
+#   name: "NAVI: Navigation Assistance for Visually Impaired"
+#   supervisor: Prof. Balakrishnan, Dept of CS, IIT Delhi
+#   quote: >
+#     NAVI (SmartCane 2.0) is a smart navigation device to help the visually impaired navigate using minimum external help. Equipped with several accessibility features, this device warns the user if they are heading wrong and gives tactile instructions for course correction. It also allows them to save new routes while navigating and add attributes like landmarks in real time.
+#   description: |
+#     - Designed a standalone device on Raspberry Pi (six person team) to assist visually impaired in navigation.
+#     - Modeled navigation as a graph traversal in Python to determine best routes and perform course correction.
+#     - Implemented a Kalman Filter to integrate data from a GPS and a 9 axis IMU for precise localization.
+
+#     Blog post available at [<mark>medium link</mark>](https://medium.com/@ashraygupta/navi-for-smartcane-866688c587b7)
